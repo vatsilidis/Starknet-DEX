@@ -1,6 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## This is a [Next.js](https://nextjs.org) project is a demo of a Decentralized exchange (DEX), using starknet-react.
 
 ## Getting Started
+
+Create a file .env.local and add the variable ETHER_ADDRESS=XXX, where XXX your address (starts with 0x).
 
 First, run the development server:
 
